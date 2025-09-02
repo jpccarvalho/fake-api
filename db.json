@@ -1,0 +1,184 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "nome": "João Silva",
+      "email": "joao.silva@email.com",
+      "telefone": "(11) 98765-4321",
+      "cpf": "123.456.789-01",
+      "dataCriacao": "2025-09-01T10:00:00Z",
+      "dataAtualizacao": "2025-09-01T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "nome": "Maria Santos",
+      "email": "maria.santos@email.com",
+      "telefone": "(21) 99876-5432",
+      "cpf": "234.567.890-12",
+      "dataCriacao": "2025-09-01T10:05:00Z",
+      "dataAtualizacao": "2025-09-02T11:20:00Z"
+    },
+    {
+      "id": 3,
+      "nome": "Pedro Oliveira",
+      "email": "pedro.oliveira@email.com",
+      "telefone": "(31) 98765-1234",
+      "cpf": "345.678.901-23",
+      "dataCriacao": "2025-09-01T10:10:00Z",
+      "dataAtualizacao": "2025-09-01T10:10:00Z"
+    },
+    {
+      "id": 4,
+      "nome": "Ana Souza",
+      "email": "ana.souza@email.com",
+      "telefone": "(41) 99876-1234",
+      "cpf": "456.789.012-34",
+      "dataCriacao": "2025-09-01T10:15:00Z",
+      "dataAtualizacao": "2025-09-02T09:00:00Z"
+    },
+    {
+      "id": 5,
+      "nome": "Carlos Pereira",
+      "email": "carlos.pereira@email.com",
+      "telefone": "(51) 98765-5678",
+      "cpf": "567.890.123-45",
+      "dataCriacao": "2025-09-01T10:20:00Z",
+      "dataAtualizacao": "2025-09-01T10:20:00Z"
+    },
+    {
+      "id": 6,
+      "nome": "Juliana Lima",
+      "email": "juliana.lima@email.com",
+      "telefone": "(61) 99876-8765",
+      "cpf": "678.901.234-56",
+      "dataCriacao": "2025-09-01T10:25:00Z",
+      "dataAtualizacao": "2025-09-02T13:45:00Z"
+    },
+    {
+      "id": 7,
+      "nome": "Fernando Costa",
+      "email": "fernando.costa@email.com",
+      "telefone": "(71) 98765-7654",
+      "cpf": "789.012.345-67",
+      "dataCriacao": "2025-09-01T10:30:00Z",
+      "dataAtualizacao": "2025-09-01T10:30:00Z"
+    },
+    {
+      "id": 8,
+      "nome": "Patrícia Fernandes",
+      "email": "patricia.fernandes@email.com",
+      "telefone": "(81) 99876-6543",
+      "cpf": "890.123.456-78",
+      "dataCriacao": "2025-09-01T10:35:00Z",
+      "dataAtualizacao": "2025-09-02T10:15:00Z"
+    },
+    {
+      "id": 9,
+      "nome": "Roberto Martins",
+      "email": "roberto.martins@email.com",
+      "telefone": "(91) 98765-9876",
+      "cpf": "901.234.567-89",
+      "dataCriacao": "2025-09-01T10:40:00Z",
+      "dataAtualizacao": "2025-09-01T10:40:00Z"
+    },
+    {
+      "id": 10,
+      "nome": "Camila Almeida",
+      "email": "camila.almeida@email.com",
+      "telefone": "(11) 99876-9876",
+      "cpf": "012.345.678-90",
+      "dataCriacao": "2025-09-01T10:45:00Z",
+      "dataAtualizacao": "2025-09-02T08:30:00Z"
+    },
+    {
+      "id": 11,
+      "nome": "Ricardo Rocha",
+      "email": "ricardo.rocha@email.com",
+      "telefone": "(21) 98765-1122",
+      "cpf": "112.233.445-56",
+      "dataCriacao": "2025-09-01T10:50:00Z",
+      "dataAtualizacao": "2025-09-01T10:50:00Z"
+    },
+    {
+      "id": 12,
+      "nome": "Lucia Gonçalves",
+      "email": "lucia.goncalves@email.com",
+      "telefone": "(31) 99876-3344",
+      "cpf": "223.344.556-67",
+      "dataCriacao": "2025-09-01T10:55:00Z",
+      "dataAtualizacao": "2025-09-02T14:00:00Z"
+    },
+    {
+      "id": 13,
+      "nome": "Gustavo Ferreira",
+      "email": "gustavo.ferreira@email.com",
+      "telefone": "(41) 98765-5566",
+      "cpf": "334.455.667-78",
+      "dataCriacao": "2025-09-01T11:00:00Z",
+      "dataAtualizacao": "2025-09-01T11:00:00Z"
+    },
+    {
+      "id": 14,
+      "nome": "Bianca Castro",
+      "email": "bianca.castro@email.com",
+      "telefone": "(51) 99876-7788",
+      "cpf": "445.566.778-89",
+      "dataCriacao": "2025-09-01T11:05:00Z",
+      "dataAtualizacao": "2025-09-02T12:30:00Z"
+    },
+    {
+      "id": 15,
+      "nome": "André Gomes",
+      "email": "andre.gomes@email.com",
+      "telefone": "(61) 98765-9900",
+      "cpf": "556.677.889-90",
+      "dataCriacao": "2025-09-01T11:10:00Z",
+      "dataAtualizacao": "2025-09-01T11:10:00Z"
+    },
+    {
+      "id": 16,
+      "nome": "Sofia Pires",
+      "email": "sofia.pires@email.com",
+      "telefone": "(71) 99876-1100",
+      "cpf": "667.788.990-01",
+      "dataCriacao": "2025-09-01T11:15:00Z",
+      "dataAtualizacao": "2025-09-02T09:45:00Z"
+    },
+    {
+      "id": 17,
+      "nome": "Daniel Silveira",
+      "email": "daniel.silveira@email.com",
+      "telefone": "(81) 98765-2200",
+      "cpf": "778.899.001-12",
+      "dataCriacao": "2025-09-01T11:20:00Z",
+      "dataAtualizacao": "2025-09-01T11:20:00Z"
+    },
+    {
+      "id": 18,
+      "nome": "Larissa Barbosa",
+      "email": "larissa.barbosa@email.com",
+      "telefone": "(91) 99876-3300",
+      "cpf": "889.900.112-23",
+      "dataCriacao": "2025-09-01T11:25:00Z",
+      "dataAtualizacao": "2025-09-02T11:00:00Z"
+    },
+    {
+      "id": 19,
+      "nome": "Felipe Morais",
+      "email": "felipe.morais@email.com",
+      "telefone": "(11) 98765-4400",
+      "cpf": "990.011.223-34",
+      "dataCriacao": "2025-09-01T11:30:00Z",
+      "dataAtualizacao": "2025-09-01T11:30:00Z"
+    },
+    {
+      "id": 20,
+      "nome": "Isabela Costa",
+      "email": "isabela.costa@email.com",
+      "telefone": "(21) 99876-5500",
+      "cpf": "001.122.334-45",
+      "dataCriacao": "2025-09-01T11:35:00Z",
+      "dataAtualizacao": "2025-09-02T10:45:00Z"
+    }
+  ]
+}
