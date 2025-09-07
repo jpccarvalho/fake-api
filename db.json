@@ -1,4 +1,10 @@
 {
+  "login": [
+    {
+      "id": 1,
+      "token": "eyJhbGciOiJIUzI1NiJ9.eyJwYXNzd29yZCI6InRlc3RlMTIzIiwidXNlcm5hbWUiOiJhbnl1c2VyIn0.fW9NtUdCR2cOi282IDfqxVgRQGRj0CYsnupXiNVuRF4"
+    }
+  ],
   "clients": [
     {
       "id": 1,
